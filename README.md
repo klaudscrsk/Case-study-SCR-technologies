@@ -40,6 +40,10 @@ Priečinok `podklady/` je spoločný pre všetky projekty (vzory + kontext o SCR
 - **Vernosť predlohe pred kreativitou** — vzor (`travitor-vzor.html` / `pos-vzor.html`)
   je záväzná dizajnová šablóna. Zachovaj poradie a počet sekcií, rozloženie, počty
   boxov/kariet/citácií/čísel a približné dĺžky textov.
+- **Brand identita = vždy SCR.** Case study je marketingová stránka SCR (klient je len jej
+  téma). Akcentová farba ostáva **oranžová ako v Travitor vzore** — `--accent*` premenné
+  NEPREFARBUJEME podľa klienta. Logo a prvky klienta sa umiestňujú **presne ako v Travitore**
+  (napr. logo klienta v hero na tmavom pozadí).
 - **Diakritika zapnutá** — verejný obsah so správnou slovenčinou.
 - **Čísla a citácie len z podkladov** (`03_referencie.md` alebo zdroj v `input/`). Nevymýšľať.
 - **Názvy produktov konzistentne** podľa `02_produkty_podklady.md` a `04_kanaly_a_formaty.md`.
